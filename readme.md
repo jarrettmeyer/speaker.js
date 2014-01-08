@@ -1,6 +1,6 @@
 # Speaker.js
 
-This is a demo project that I used for teaching about JavaScript objects. The project is designed to work in [NodeJS](http://nodejs.org).
+This is a demo project that I used for teaching about JavaScript objects. The project is designed to work in [NodeJS](http://nodejs.org). Check out the [blog post](http://jarrettmeyer.com/blog/2014/01/08/javascript-objects/).
 
 ## Requirements
 
@@ -19,3 +19,7 @@ From the command line...
 Or
 
     > npm run-scripts specs
+    
+## Questions?
+
+Send 'em to me [@jarrettmeyer](http://twitter.com/jarrettmeyer).
